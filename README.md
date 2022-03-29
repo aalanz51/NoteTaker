@@ -1,7 +1,7 @@
 # NoteTaker
 
 ## Installation
-To use this application, you'll need to install the express package and i used the uuid package as well.
+To use this application, you'll need to install the express package and i used the uuid package as well. Once you have done an npm i, you'll be able to go to http://localhost:3001/ and use it from your computer if you use the VS Code route.
 
 ## Usage
 ![Screen Shot 2022-03-28 at 10 16 52 PM](https://user-images.githubusercontent.com/92745804/160519339-574cdcee-a3f5-4c2e-a490-53c396f6babb.png)
