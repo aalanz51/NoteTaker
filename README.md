@@ -1,1 +1,19 @@
 # NoteTaker
+
+## installation
+To use this application, you'll need to install the express package and i used the uuid package as well.
+
+## Usage
+![Screen Shot 2022-03-28 at 10 16 52 PM](https://user-images.githubusercontent.com/92745804/160519339-574cdcee-a3f5-4c2e-a490-53c396f6babb.png)
+
+This will allow you to take notes, save them, and delete them when need be.
+
+## Previews
+
+It should look like this:
+![Screen Shot 2022-03-28 at 10 18 46 PM](https://user-images.githubusercontent.com/92745804/160519554-9a002dc8-446f-48da-83fd-646b242d81cb.png)
+![Screen Shot 2022-03-28 at 10 18 53 PM](https://user-images.githubusercontent.com/92745804/160519564-b7bf153b-e4c2-4e6d-8cd4-ec9b98627da1.png)
+
+## Demo
+You can find it here:
+https://lanz-note-taker.herokuapp.com/
