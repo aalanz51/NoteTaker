@@ -14,6 +14,10 @@ It should look like this:
 ![Screen Shot 2022-03-28 at 10 18 46 PM](https://user-images.githubusercontent.com/92745804/160519554-9a002dc8-446f-48da-83fd-646b242d81cb.png)
 ![Screen Shot 2022-03-28 at 10 18 53 PM](https://user-images.githubusercontent.com/92745804/160519564-b7bf153b-e4c2-4e6d-8cd4-ec9b98627da1.png)
 
+
+https://user-images.githubusercontent.com/92745804/160519920-45ffd9bd-971a-4e1a-b6d1-d964598b7aa6.mp4
+
+
 ## Demo
 You can find it here:
 https://lanz-note-taker.herokuapp.com/
