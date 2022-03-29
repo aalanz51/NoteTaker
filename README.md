@@ -1,6 +1,6 @@
 # NoteTaker
 
-## installation
+## Installation
 To use this application, you'll need to install the express package and i used the uuid package as well.
 
 ## Usage
